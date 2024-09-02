@@ -3,6 +3,7 @@
  
  Bridging Design Gaps: A Parametric Data Completion Approach With Graph Guided Diffusion Models
 
+```
  @misc{zhou2024bridgingdesigngapsparametric,
       title={Bridging Design Gaps: A Parametric Data Completion Approach With Graph Guided Diffusion Models}, 
       author={Rui Zhou and Chenyang Yuan and Frank Permenter and Yanxia Zhang and Nikos Arechiga and Matt Klenk and Faez Ahmed},
@@ -12,3 +13,4 @@
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2406.11934}, 
 }
+```
